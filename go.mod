@@ -1,4 +1,4 @@
-module contracts
+module github.com/VsPun/contracts
 
 go 1.21.4
 
